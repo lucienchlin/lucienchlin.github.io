@@ -19,6 +19,6 @@ Further restriction在GNU系列的授權條款是一個舉足輕重的關鍵字�
 
 但是法官不同意，不管是第一審級的法官，或是第二審級的法官。
 
-為什麼？轉過來說，在GNU GPL的FAQ，有著這段，Can I modify the GPL and make a modified license?(我可以修改GPL來製作一個改版的授權條款嗎？)：https://www.gnu.org/licenses/gpl-faq.en.html#ModifyGPL
+為什麼？轉過來說，在GNU GPL的FAQ，有著這段，Can I modify the GPL and make a modified license?(我可以修改GPL來製作一個改版的授權條款嗎？)： https://www.gnu.org/licenses/gpl-faq.en.html#ModifyGPL
 
 GNU Project給的答案是「可以」，但必須讓新的條款在名稱上與GPL無關，不讓人誤會它是GPL。所以說，某種程度，此案一二審法官的立場，偏向於原作者改過的AGPL-3.0，已經是一個新的條款，從而，不能說原作者增添條款本身所無之限制予後手，因為這個條款，就是一個新的條款；但另一方面，改過的條款，此案一二審法官也明確指出，不應該再讓它與原條款名稱做牽連，以免造成誤會，也會引發不實的廣告效應(false advertising)。
