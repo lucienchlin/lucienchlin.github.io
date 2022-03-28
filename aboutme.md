@@ -10,10 +10,12 @@ Lucien C.H. Lin, the frequently used internet ID is “Lucien” or “lucien.cc
 
 ### 現職／Current
 
+- Creative Commons Taiwan Chapter Lead，2018/1/1～迄今。
 - 開放文化基金會法制顧問，2016/2/1～迄今。
 - 鈞理知識產權事務所法制顧問，2016/2/1～迄今。
 - 究心公益科技股份有限公司法制顧問，2016/7/1～迄今。
 
+- Creative Commons Taiwan Chapter Lead: 2018/1/1~Now
 - Legal Adviser in Open Culture Foundation: 2016/2/1~Now
 - Legal Adviser in Gemly Int’l Intellectual Propery Right Office: 2016/2/1~Now
 - Legal Adviser in Geothings: 2016/7/1～Now
