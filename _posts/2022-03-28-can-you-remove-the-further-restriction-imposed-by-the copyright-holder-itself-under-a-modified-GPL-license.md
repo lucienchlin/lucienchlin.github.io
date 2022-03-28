@@ -29,7 +29,7 @@ PURETHINK的立場是，這明著就是對AGPL-3.0授權條款主文，增添額
 
 為什麼？轉過來說，在GNU GPL的FAQ，有著這段，Can I modify the GPL and make a modified license?(我可以修改GPL來製作一個改版的授權條款嗎？)：[https://www.gnu.org/licenses/gpl-faq.en.html#ModifyGPL](https://www.gnu.org/licenses/gpl-faq.en.html#ModifyGPL)
 
-GNU Project給的答案是「**可以**」，但必須讓新的條款在名稱上與GPL無關，**不讓人誤會新的條款還是GPL**。
+GNU Project給的答案是「**可以**」，但必須讓新的條款在名稱上與GPL無關，**不讓人誤會新的條款還是GPL**。所以在法庭審理上，法官不再稱這樣的條款是AGPL-3.0，或稱它為AGPL-3.0+CCLC，而是給它一個暫訂的代稱：「瑞典軟體條款(Sweden Software Licesne)」，因NEO4J母公司的主事務所在瑞典。
 
 所以說，某種程度，此案一二審法官的立場，偏向於原作者改過的AGPL-3.0，已經是一個新的條款，從而，不能說原作者增添條款本身所無之限制予後手，因為這個條款，就是一個新的條款；但另一方面，改過的條款，此案一二審法官也明確指出，不應該再讓它與原條款名稱做牽連，以免造成誤會，也會引發不實的廣告效應(false advertising)。
 
