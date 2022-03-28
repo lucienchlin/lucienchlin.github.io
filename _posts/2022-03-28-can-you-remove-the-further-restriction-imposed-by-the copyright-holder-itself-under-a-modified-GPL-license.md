@@ -11,7 +11,7 @@ Further restriction在GNU系列的授權條款是一個舉足輕重的關鍵字�
 
 但是，真的是這樣嗎？
 
-美國第九巡迴上訴法院(The US Court of Appeals for the Ninth Circuit)近期受理了NEO4J與PURETHINK這兩家公司的上訴案，簡要來說，NEO4J採AGPL-3.0+CCLC來釋出它的程式碼，並聲稱它是開源的，然而，AGPL-3.0授權是開源授權這一點大家沒有爭議，但Common Clause License Condtion(CCLC)整體而言就是加上一條附款，註稱軟體依主條款來用沒問題，但千萬不能拿來賣(sale)，這個賣甚至包括收取諮詢費用，都是不行的。也就是說，開源的主條款加上CCLC，基本上這樣的配套就不再符合一般對開源的理解和定義了。
+美國第九巡迴上訴法院(The US Court of Appeals for the Ninth Circuit)近期受理了NEO4J與PURETHINK這兩家公司的[上訴案](https://storage.courtlistener.com/recap/gov.uscourts.cand.335295/gov.uscourts.cand.335295.140.0.pdf)，簡要來說，NEO4J採AGPL-3.0+CCLC來釋出它的程式碼，並聲稱它是開源的，然而，AGPL-3.0授權是開源授權這一點大家沒有爭議，但Common Clause License Condtion(CCLC)整體而言就是加上一條附款，註稱軟體依主條款來用沒問題，但千萬不能拿來賣(sale)，這個賣甚至包括收取諮詢費用，都是不行的。也就是說，開源的主條款加上CCLC，基本上這樣的配套就不再符合一般對開源的理解和定義了。
 
 所以，**PURETHINK認為應該把它刪掉！PURETHINK認為應該把它刪掉！PURETHINK認為應該把它刪掉！**
 
