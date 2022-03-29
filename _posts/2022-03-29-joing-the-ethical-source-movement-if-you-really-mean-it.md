@@ -30,3 +30,5 @@ tags: [OSD, ethical-source, OES, evil, neutrality]
 當然，善源不必然相容於開源，應該是說，您可以將部份採寬鬆授權的開源授權程式，例如採MIT、3-clause-BSD發布的軟體，加入Hippocratic License 3.0的源碼庫，或是將其改採Hippocratic License 3.0發布，但是，寬的能轉換成嚴的，嚴的不能轉換成寬的，一旦轉換為善緣授權，之後建議就不要再堅持以開源一詞稱呼這樣的專案。
 
 秉此，**持心向善的歸善源，堅持中立的歸開源**。
+
+[Facebook發布鏈結](https://www.facebook.com/lucienchenghsia.lin/posts/10216854312669689)
