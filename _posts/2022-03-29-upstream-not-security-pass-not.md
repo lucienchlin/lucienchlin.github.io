@@ -2,9 +2,9 @@
 layout: post
 title: Upstream not, security pass not.
 subtitle: 公司不讓我溯源上傳，產品的資安檢測或許就不容易過。
-cover-img: /assets/img/2022-03-30.png
-thumbnail-img: /assets/img/2022-03-30-s.png
-share-img: /assets/img/2022-03-30.png
+cover-img: /assets/img/2022-03-29.png
+thumbnail-img: /assets/img/2022-03-29-s.png
+share-img: /assets/img/2022-03-29.png
 tags: [upstream, GPL, community, OpenChain, management]
 ---
 
