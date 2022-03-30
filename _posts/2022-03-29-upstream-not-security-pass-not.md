@@ -47,3 +47,5 @@ tags: [upstream, GPL, community, OpenChain, management]
 在[OpenChain開源合規政策書](https://raw.githubusercontent.com/OpenChain-Project/Specification-Translations/master/zh-Hant/2.0/OpenChain-Specification-2-0-zh-Hant.pdf)的第五章，明確提示產業公司，應完備一份書面的**開源貢獻政策書**，來管理公司對開源專案的貢獻，該政策的建議，並不是說迫使公司一定要溯源回傳修改過的開源程式碼，然而完備此份政策書，將可以讓整體利益評估有利於公司營運和產品銷售時，有機會讓工程部門得依循事先規範的流程，來進行對公司有益的源碼上傳。
 
 以**救濟目前無論好壞，皆沒有機會進行溯源貢獻的狀態。**
+
+[Facebook發布鍵結](https://www.facebook.com/lucienchenghsia.lin/posts/10216857452868192)
