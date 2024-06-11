@@ -34,8 +34,8 @@ Apryse這樣的聲明不是沒有爭議的，主要幾項爭議點有：
 4. 最後，AGPL-3.0就第13條的遠距拘束的啟動條件，多數開源社群皆認同其為AGPL-3.0軟體被實質修改後(if you modify the Program)，因為若未經修改，原則上直接揭露所使用的AGPL-3.0軟體版本號即可，有意願再利用該軟體之人，依此版本號自行下載原典即可。然而，Apryse在許多公開論壇指出，即使單純依iText/iTextSharp之APIs來與其互動，多數狀況即為構成iText/iTextSharp軟體程式本身的修改，從而啟動其雲端拘束特性？這樣的論點與過去20年開源技術領域的多數共論，實有顯著差異。
 
 那麼，在非亞洲地區過去是如何處理這樣的爭議的呢？客觀觀察到的有：
-1. iText/iTextSharp 4.1.6是最後一版採MPL-1.1/LGPL-2.0+雙授權的版本：https://github.com/schourode/iTextSharp-LGPL/tree/master
-2. 《使用iText/iTextSharp舊版軟體來進行商業延展開發，可以或是不可以？》：https://web.archive.org/web/20240314224137/https://kb.itextpdf.com/it5kb/can-itext-2-1-7-itextsharp-4-1-6-or-earlier-be-use
+1. iText/iTextSharp 4.1.6是最後一版採MPL-1.1/LGPL-2.0+雙授權的版本：[https://github.com/schourode/iTextSharp-LGPL/tree/master](https://github.com/schourode/iTextSharp-LGPL/tree/master)
+2. 《使用iText/iTextSharp舊版軟體來進行商業延展開發，可以或是不可以？》：[https://web.archive.org/web/20240314224137/https://kb.itextpdf.com/it5kb/can-itext-2-1-7-itextsharp-4-1-6-or-earlier-be-use](https://web.archive.org/web/20240314224137/https://kb.itextpdf.com/it5kb/can-itext-2-1-7-itextsharp-4-1-6-or-earlier-be-use)
 3. 依據前列iText/iTextSharp原文，該公司建議大家不要再用舊版的iTextSharp來進行商用，希望大家採用AGPL-3.0授權的iTextSharp 5及其後更新版本。公司端的理由是：
   * 舊版有些來自SUN的legacy code，這些並非開源的程式碼，繼續使用也會有相關法律風險，
   * 舊版資安狀態必須自行維護，
