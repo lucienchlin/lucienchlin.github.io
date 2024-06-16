@@ -17,7 +17,7 @@ Lucien C.H. Lin, the frequently used internet ID is “Lucien” or “lucien.cc
 
 - "Open Source Legal Network, Taiwan" Co-funder: 2018/1/1~Now
 - "Creative Commons Taiwan" Chapter Lead: 2018/1/1~Now
-- Legal Adviser in Gemly Int’l Intellectual Propery Right Office: 2016/2/1~Now
+- Legal Adviser in Gemly Int’l Intellectual Property Right Office: 2016/2/1~Now
 - Legal Adviser in Geothings: 2016/7/1～Now
 
 ### 經歷／Experience
