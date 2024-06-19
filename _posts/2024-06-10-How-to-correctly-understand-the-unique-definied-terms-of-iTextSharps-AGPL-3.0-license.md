@@ -8,7 +8,7 @@ share-img: /assets/img/2024-06-10.png
 tags: [pdf, AGPL, copyrighttroll, copytroll, itext, output, rejectedlist, Asia, Taiwan]
 ---
 
-如果您對AGPL-3.0的授權拘束特性並不熟悉，或是您組織裡並沒有專務進行開源合規調處的職員，那建議不要去使用到，**iText/iTextSharp在v.5之後的AGPL-3.0授權版本**。因為我們末必能有信心說，它真的是開源的軟體。
+如果您對AGPL-3.0的授權拘束特性並不熟悉，或是您組織裡並沒有專務進行開源合規調處的職員，那建議不要去使用到，**iText/iTextSharp在v.5之後的AGPL-3.0授權版本**。因為我們末必能有信心說，它真的是開源的軟體。依過去的司法實例，或許它所採用的條款，該被改稱為 iText Belgium Software License 或 iText Canada Software License，這樣才不會產生使用上的誤解和誤會。
 
 進一步說，大增額外條款的AGPL-3.0，還會是大眾認知開源授權的AGPL-3.0嗎？或者說，您知道**iTextSharp在過去幾年一直在亞洲各地寄發侵權或開源不合規的警告信件給商業公司或政府部門**嗎？主要這些警告信的使力點，在於AGPL-3.0授權要求，在修改原AGPL-3.0程式碼並用作網路服務時，必須揭露原出處的顯名聲明，並且應使用者要求，來提供該AGPL-3.0能被後續改作的程式源碼；另外，AGPL-3.0在第7條加立了「額外條款(Additional Terms)」的機制，這讓它在應用和合規處理上，更形複雜而不易處理。
 
@@ -32,6 +32,7 @@ Apryse這樣的聲明不是沒有爭議的，主要幾項爭議點有：
 2. Work是Work、Output是Output。簡要來說，修改原程式產生衍生程式，不管原程式或衍生程式，都是AGPL-3.0定義的covered work範圍(A “covered work” means either the unmodified Program or a work based on the Program.)，然而，應用該AGPL-3.0程式所進行成果輸出(Output)，並不在covered work的範圍之內。AGPL-3.0此處的原文為「執行AGPL-3.0軟體所產生的輸出，僅在該輸出就內容而言，已構成衍生著作時，才受此授權條款的拘束。(The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work.)也就是說，使用MS Office來作簡報，不會讓MS取得該簡報的著作分潤，除非該簡報的內容包括MS授權的美術、圖表等，那麼，使用iText/iTextSharp進行PDF轉檔，這些轉檔輸出內含iText/iTextSharp必要的meta-data，也不應被解讀為covered work，從而既然不是covered work，自然不該有 AGPL-3.0 7(b)額外條款的適用空間，因AGPL-3.0 7(b)明文顯示，這些額外條款應該只能加諸於AGPL-3.0授權程式的本身及其添附的素材(for material you add to a covered work)，而不及於單純輸出的範圍。
 3. 所以說，AGPL-3.0 7(b)額外條款並不能直接適用於Output發揮效力，那麼加上這些額外的要求，恰恰構成AGPL-3.0要求條款的應用者「不得向後手添加的額外使用限制(You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License)」。當這些額外限制的添加者，為所發布軟體的原始著作權利人時，國外的司法實務並不認為這些添附條款全然無效，在[美國第九巡迴上訴法院(The US Court of Appeals for the Ninth Circuit)2022年受理NEO4J與PURETHINK這兩家公司的上訴案](https://lucienchlin.github.io/2022-03-27-can-you-remove-the-further-restriction-imposed-by-the-copyright-holder-itself-under-a-modified-GPL-license/)裡，我們也明確了解，一二審法官並沒有否定權利人另添條款的效力，然皆指出，實質有修改過的條款，不應該再讓它與原開源條款名稱做牽連，以免造成誤會，也會引發不實的廣告效應(false advertising)！該案NEO4J聲稱其採AGPL-3.0釋出軟體，然法官庭訊文件指出，應稱其為「Neo4j Sweden Software License」，而不要再自稱AGPL-3.0。
 4. 最後，AGPL-3.0就第13條的遠距拘束的啟動條件，多數開源社群皆認同其為AGPL-3.0軟體被實質修改後(if you modify the Program)，因為若未經修改，原則上直接揭露所使用的AGPL-3.0軟體版本號即可，有意願再利用該軟體之人，依此版本號自行下載原典即可。然而，Apryse在許多公開論壇指出，即使單純依iText/iTextSharp之APIs來與其互動，多數狀況即為構成iText/iTextSharp軟體程式本身的修改，從而啟動其雲端拘束特性？這樣的論點與過去20年開源技術領域的多數共論，實有顯著差異。
+5. 綜合以上的分析，若依NEO4J司法訴訟案的處理，Apryse或許不能再混淆式的簡稱經由其添加額外使用限制的iText/iTextSharp仍是採用AGPL-3.0開源發布，而應該改稱其所採用的授權條款，為 iText Belgium Software License 或 iText Canada Software License，這樣才不會產生使用上的誤解和誤會。
 
 那麼，在非亞洲地區過去是如何處理這樣的爭議的呢？客觀觀察到的有：
 1. iText/iTextSharp 4.1.6是最後一版採MPL-1.1/LGPL-2.0+雙授權的版本：[https://github.com/schourode/iTextSharp-LGPL/tree/master](https://github.com/schourode/iTextSharp-LGPL/tree/master)
