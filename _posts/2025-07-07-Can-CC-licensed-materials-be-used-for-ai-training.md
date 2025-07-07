@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can-cc-licensed-materials-be-used-for-ai-training
+title: Can-CC-licensed-materials-be-used-for-AI-training
 subtitle: 可以使用 CC 授權的素材來訓練 AI 嗎？
 cover-img: /assets/img/2025-07-07-01.png
 thumbnail-img: /assets/img/2025-07-07-01.png
